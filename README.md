@@ -12,7 +12,7 @@ npm run dev
 
 Visit http://127.0.0.1:4173. No package installation is needed.
 
-For VS Code Live Server, run `npm run build` first. The workspace settings serve `dist/` on localhost; restart an already-running Live Server after changing these settings.
+For VS Code Live Server, run `npm run build` first. The workspace settings serve `dist/`; restart an already-running Live Server after changing these settings. Use `npm run dev` for a preview that binds only to `127.0.0.1`.
 
 ## Files
 
